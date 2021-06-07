@@ -6,6 +6,7 @@ from battlefield import Battlefield
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     battlefield = Battlefield()
+    battlefield.run_game()
 
 
 print('Game Over')
